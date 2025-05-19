@@ -26,9 +26,8 @@ The model is trained on image-caption datasets such as [Flickr8k](https://forms.
 
 - Python
 - TensorFlow / PyTorch
-- NumPy, Pandas, Matplotlib
+- NumPy, Pandas
 - Pretrained models: VGG16 / ResNet50
 - NLP models: LSTM / Transformer
-- Streamlit (for optional UI)
 
 ---
