@@ -1,6 +1,9 @@
 # 🖼️ Image Captioning AI
 
 Automatically generate natural language captions for images using deep learning!
+The project uses a pre-trained convolutional neural network (CNN) such as VGG16 or ResNet50 to extract high-level visual features from an image, and then passes those features into a sequence-generating model like an RNN (e.g., LSTM) or Transformer to generate a meaningful caption.
+
+This project demonstrates how deep learning can bridge the gap between visual understanding and language generation, with applications in accessibility (e.g., for visually impaired users), content generation, and visual search engines.
 
 ## 📚 Overview
 
